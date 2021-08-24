@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @p_yukusai, you can call me Yuku, I somewhat draw and code!
 - 👀 I like to work with Python making GUI's and other small programs.
-- 📫 You can always PM me or support me on [Instagram](https://www.instagram.com/p_yukusai/) or through [Ko-fi](https://ko-fi.com/yukusai).
+- 📫 You can always PM me or support me in this Github, through [Instagram](https://www.instagram.com/p_yukusai/), [Ko-fi](https://ko-fi.com/yukusai) or [PayPal](https://www.paypal.com/donate?hosted_button_id=N6F62G5H4CF94).
