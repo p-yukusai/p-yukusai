@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p_yukusai, you can call me Yuku, I somewhat draw and code!
 - 👀 I usually work with Python and Qt making GUI's and other small programs.
-- 👩‍💼 I'm currently learning Rust and working contributing for [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects).
+- 👩‍💼 I'm currently learning Rust and further developing [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects).
 - 👨‍💻 I know, to some extent: Python, C++, Powershell/CMD, Bash and whatever Qt is.
 - 📫 You can always PM me or support me in this Github or through [Instagram](https://www.instagram.com/p_yukusai/), [Twitter](https://twitter.com/p_yukusai), [Ko-fi](https://ko-fi.com/yukusai) or [PayPal](https://www.paypal.com/donate?hosted_button_id=N6F62G5H4CF94).
