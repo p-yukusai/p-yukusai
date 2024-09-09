@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @p_yukusai, you can call me Yuku, I somewhat draw and code!
 - 👀 I usually do GUI's and other small programs.
 - 👩‍💼 I'm currently learning Rust and further developing [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects).
-- 📫 You can always PM me or support me in this [Github](https://github.com/sponsors/p-yukusai/dashboard) or through [Instagram](https://www.instagram.com/p_yukusai/), [Twitter](https://twitter.com/p_yukusai), [Ko-fi](https://ko-fi.com/yukusai) or [PayPal](https://www.paypal.com/donate?hosted_button_id=N6F62G5H4CF94).
+- 📫 You can always PM me or support me in this [Github](https://github.com/sponsors/p-yukusai/dashboard) or through [Discord](https://discord.gg/sKp8Srm) (@yukusai), [Twitter](https://twitter.com/p_yukusai), [Ko-fi](https://ko-fi.com/yukusai) or [PayPal](https://www.paypal.com/donate?hosted_button_id=N6F62G5H4CF94).
