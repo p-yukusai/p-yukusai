@@ -2,4 +2,4 @@
 - I usually do GUI's and other small programs using C++, Python or whatever else is needed.
 - I'm currently developing [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects) among other projects.
 - Nintendo DMCA counter: 5
-- You can always DM me or support me in this [Github](https://github.com/sponsors/p-yukusai/dashboard) or through [Discord](https://discord.gg/sKp8Srm) (@yukusai), [Bluesky](https://bsky.app/profile/yukusai.bsky.social), [Twitter](https://twitter.com/p_yukusai), [Ko-fi](https://ko-fi.com/yukusai) or [PayPal](https://www.paypal.com/donate?hosted_button_id=N6F62G5H4CF94).
+- You can always DM me or support me in this [Github](https://github.com/sponsors/p-yukusai/dashboard) or through [Discord](https://discord.gg/sKp8Srm) (@yukusai), [Bluesky](https://bsky.app/profile/yukusai.bsky.social), [Twitter](https://twitter.com/p_yukusai), [Ko-fi](https://ko-fi.com/yukusai), [itch.io](https://yukusai.itch.io/) or [PayPal](https://www.paypal.com/donate?hosted_button_id=N6F62G5H4CF94).
